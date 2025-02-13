@@ -49,12 +49,12 @@ describe.
 </p>
 
 ### Statistics
-Currently, CogBench consists of 251 semantically-rich images with a total of 2670 entities, 2245 CoRs, 251 descriptions and 2577 questions, showcased in Table 1. 
+Currently, CogBench consists of 251 semantically-rich images with a total of 2670 entities, 2243 CoRs, 251 descriptions and 2577 questions, showcased in Table 1. 
 
 **Table 1: Distribution of CoRs and questions in CogBench**
 |                       | **Time** | **Location** | **Character** | **Character**<br>**Relationship** | **Event** | **Event**<br>**Relationship** | **Next Moment**<br>**Event** | **Mental State** |
 |-----------------------|----------|--------------|---------------|----------------------------------|-----------|-------------------------------|-----------------------------|------------------|
-| **CoR**               | 47       | 179          | 106           | 263                              | 701       | 425                           | 107                         | 417              |
+| **CoR**               | 47       | 177          | 106           | 263                              | 701       | 425                           | 107                         | 417              |
 | **QA**                | 86       | 220          | 162           | 317                              | 658       | 402                           | 135                         | 597              |
 
 
