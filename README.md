@@ -6,7 +6,9 @@
 # A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models
 
 ## News
+
 **2025-01-23**: Our paper is accepted to NAACL 2025 main conference! 🎉🎉🎉
+
 **2024-06-09**: We released CogBench! Hope you find it useful and interesting!
 
 ## Introduction
