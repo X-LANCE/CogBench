@@ -6,8 +6,8 @@
 # A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models
 
 ## News
-
-🔥 **2024-06-09**: We released CogBench! Hope you find it useful and interesting!
+**2025-01-23**: Our paper is accepted to NAACL 2025 main conference! 🎉🎉🎉
+**2024-06-09**: We released CogBench! Hope you find it useful and interesting!
 
 ## Introduction
 
@@ -24,7 +24,7 @@ CogBench defines **eight reasoning capabilities** and consists of an **Image Des
 
 The eight reasoning abilities include Special Time Reasoning, Location Reasoning, Character Reasoning, Character Relationship Reasoning, Event Reasoning, Event Relationship Reasoning, Next Moment Event Reasoning, and Mental State Reasoning.
 
-For the Description task,  [Entities], [Chain-of-Reasonings (CoRs)] and [Description] are annotatated. [Entities] and [CoRs] are used to evaluate the low-level recognition ability and high-level cognitive reasoning abilities of models respectively based on their description. Evaluation metrics for both levels are calculated using recall scores, referred to as **Recognition Score** and **Cognition Score**, respectively.
+For the Description task, [Entities], [Chain-of-Reasonings (CoRs)] and [Description] are annotatated. [Entities] and [CoRs] are used to evaluate the low-level recognition ability and high-level cognitive reasoning abilities of models respectively based on their description. Evaluation metrics for both levels are calculated using recall scores, referred to as **Recognition Score** and **Cognition Score**, respectively.
 
 The VQA task features standard four-option Multiple-Choice Questions. The evaluation metric for this task is accuracy.
 
