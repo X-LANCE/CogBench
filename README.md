@@ -165,10 +165,25 @@ The construction of this repository refers to some content in [MM-VET](https://g
 If you find our work interesting, please feel free to cite our paper:
 
 ```
-@article{song2024cognitive,
-  title={A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models},
-  author={Song, Xiujie and Wu, Mengyue and Zhu, Kenny Q and Zhang, Chunhao and Chen, Yanyi},
-  journal={arXiv preprint arXiv:2402.18409},
-  year={2024}
+@inproceedings{song-etal-2025-cognitive,
+    title = "A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models",
+    author = "Song, Xiujie  and
+      Wu, Mengyue  and
+      Zhu, Kenny Q.  and
+      Zhang, Chunhao  and
+      Chen, Yanyi",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.324/",
+    doi = "10.18653/v1/2025.naacl-long.324",
+    pages = "6392--6409",
+    ISBN = "979-8-89176-189-6",
+    abstract = "Large Vision-Language Models (LVLMs), despite their recent success, are hardly comprehensively tested for their cognitive abilities. Inspired by the prevalent use of the Cookie Theft task in human cognitive tests, we propose a novel evaluation benchmark to evaluate high-level cognitive abilities of LVLMs using images with rich semantics. The benchmark consists of 251 images along with comprehensive annotations. It defines eight reasoning capabilities and comprises an image description task and a visual question answering task. Our evaluation of well-known LVLMs shows that there is still a significant gap in cognitive abilities between LVLMs and humans."
 }
 ```
