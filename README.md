@@ -7,7 +7,7 @@
 
 ## News
 
-**2025-01-23**: Our paper is accepted to NAACL 2025 main conference! 🎉🎉🎉
+**2025-01-23**: Our paper was accepted as an **Oral** at the **NAACL 2025** main conference! 🎉🎉🎉
 
 **2024-06-09**: We released CogBench! Hope you find it useful and interesting!
 
